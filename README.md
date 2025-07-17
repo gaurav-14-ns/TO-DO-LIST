@@ -12,6 +12,6 @@ The output is basically like -
 7. SHOW COMPLETED TASK
 8. EXIT
 
-Here, the user gets to add task as task title and task description. 
+Here, the user gets to add task as task title and task description along with date.
 Also, the user can update an existing task by changing the task title and task description.
 Once the user select the option EXIT, every changes get saved in the database. 
